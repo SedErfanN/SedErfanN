@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SedErfanN
-- 👀 I’m interested in ...
+- 👀 I’m interested in backend but i'm frontend for now
 - 🌱 I’m currently learning Html/CSS/js-react
 - 📫 How to reach me Email: erfanmbe@gmail.com
 
